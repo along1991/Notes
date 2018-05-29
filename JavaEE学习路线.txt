@@ -1,0 +1,114 @@
+java语言入门	
+基础语法	1 HelloWorld、2 常量、3 变量、4 数据类型、5 运算符、6 方法、7 流程控制语句、8 IDEA使用、9 数组	可掌握的核心能力：
+掌握Java开发环境基本配置；
+掌握运算符、表达式、流程控制语句、数组等的使用；
+熟练使用Idea开发工具；
+掌握Java基本面向对象知识；
+掌握常用类String、ArrayList等的使用。
+
+Java语言进阶	
+常用API	1 Date、2 DateFormat、3 Calendar、4 System、5 StringBuilder	可掌握的核心能力：
+深入理解Java面向对象相关知识点；
+掌握开发中常用类如集合、IO流、时间日期等操作；
+掌握Java异常处理机制，熟悉Java多线程开发；
+掌握网络基础知识，了解Socket原理，TCP、UDP协议；
+掌握java基本语法完成单机程序的编写；
+熟悉Java新特性，如Lambda、Stream流等操作。
+
+可解决的现实问题：
+集合API	1 Collection、2 泛型、3 List、4 Set、5 Collections、6 Map、7 HashMap
+异常	1 异常体系、2 异常分类、3 声明抛出捕获异常、4 自定义异常
+多线程	1 线程概念、2 线程同步、3 Lock、4 线程生命周期、5 线程池
+Lambda表达式	1 函数式思想概述、2 Lambda标准格式、3 Lambda语法与注意事项
+IO流	1 文件、2 字节流、字符流、3 转换流、高效流
+网络编程	1 网络编程三要素、2 Socket原理机制、3 UDP传输、4 TCP传输
+新特性	1 函数式接口、2 方法引用、3 函数式编程、4 Stream流
+JavaWeb	mysql与jdbc	1 mysql、2 jdbc、3 连接池、4 JdbcTemplate	可掌握的核心能力:
+掌握Java JDBC、连接池操作，熟练操作mysql数据库；
+熟悉web开发中常用知识如 HTML5、CSS3、JavaScript、BootStrap、jQuery等；
+掌握JavaWeb开发核心技术 Servlet、Listener、Filter等；
+熟悉Linux服务器，并安装开发常用软件tomcat、mysql、nginx等；
+掌握同步及异步操作的JavaWeb开发，具备B/S结构软件开发能力，完成基本的JavaWeb项目；
+熟悉基本的项目管理工具Maven的使用。
+
+可解决的现实问题：
+具备基本的JavaWeb开发能力，熟悉Linux服务器及相关软件的使用，可完成中小型企业级项目的开发。
+
+掌握JavaWeb开发基础知识，熟悉Java基本开发环境、熟悉项目管理工具使用及Linux服务器使用，满足java软件开发行业的中级需求，根据市场反馈数据来看，薪资可达8000元/月。
+前端技术	1 html5、2 css3、3 javascript、4 bootstrap
+linux与nginx	1 linux安装、2 目录操作、3 文件操作、4 网络操作等、5 nginx安装、配置、部署
+基础加强	1 反射、2 BeanUtils、3注解
+xml与jsoup	1 xml基本语法、2 约束、3 jsoup概述、4 jsoup作用使用、5 xpath
+servlet核心编程	1 tomcat、2 request、response、3 cookie、session、4 jsp、el、jstl、Filter
+web异步开发	1 jquery3、2 ajax、3 json
+redis	1 nosql介绍、2 redis数据类型、3 常用命令、4 jedis
+maven	1 maven概念与作用、2 idea集成maven、3 maven常用命令、4 依赖管理
+黑马旅游网	1 baseServlet优化、2 redis缓存、3 jdbcTemplate事务控制、4 linux shell编程、5 项目部署
+项目一	mybatis	1 自定义mybatis框架、2 mybatis入门、3 架构分析、4 常用API、5 配置与事务管理、6 mapper代理、7 数据封装、8 动态sql、9 关联查询、10 性能优化、11 查询缓存	可掌握的核心能力：
+掌握企业中最常用SSM框架开发，开发出结构清晰、可复用性好、维护方便的企业级应用程序；
+掌握AngularJS框架；
+掌握Spring security框架；
+掌握dubbox分布式调用技术；
+掌握zookeeper分布式应用协调服务；
+掌握Freemarker模板引擎；
+掌握全文检索解决方案；
+掌握spring boot1.x框架的基本应用；
+掌握CAS实现单点登录；
+掌握CORS实现跨域；
+掌握微信扫码支付；
+掌握电商秒杀解决方案；
+掌握SpringTask实现任务调度；
+掌握MavenProfilel实现开发与生产环境切换；
+了解电商开发中相关业务模块如商品、订单基本操作；
+了解电商开发中相关术语SPU和SKU等；
+积累互联网电商项目开发经验。
+
+可解决的现实问题：
+使用主流的ssm框架，升级相关技术，如前端框架angularJS、spring data redis、spring data solr等，提供大量企业级解决方案，如支付解决方案、秒杀解决方案、搜索解决方案等，提升项目含金量，促进学员就业，让学生更自如面对互联网电商项目开发岗位。
+
+市场价值：
+掌握本阶段，可应对Java互联网开发的高级岗位，根据市场反馈数据来看，薪资可达12000元/月。
+spring	1 spring体系结构、2 spring配置、3 bean管理、 4 IOC/DI、AOP、5 事务管理、6 spring5新特性
+spring mvc	1 springmvc概述、2 控制器、3 常用注解、4 参数绑定、5 json数据交换、
+6 resutful、7 拦截器、8 文件上传、9 异常处理、10 SSM整合
+oracle	1 安装配置、2 表空间、3 常用函数、4 多表查询、5 子查询、6 序列、视图、
+7 查询优化、8 PLSQL、9 存储过程、10 存储函数、触发器
+maven	1 maven分模块构建、、2 私服、3 本地仓库
+企业级权限管理系统	1 svn、2 adminLTE、3 SSM零配置整合、4 spring security、5 权限控制、6 AOP日志
+
+企业级服务--SaasOA
+（任选一）	以品优购为例：
+1.分布式框架Dubbox、2.采用angularJS作为前端框架，所有工程均采用ajax方式异步获取数据、3 使用select2多选下拉框组件、 4.电商模式由原来的B2C升级为B2B2C、 5 使用《黑马程序员代码生成器2.4》生成代码、6 使用Spring Security作为安全框架、 7 采用BCrypt加密算法、 8 使用SpringDataRedis框架操作Redis、 9 使用Spring Data Solr框架操作solr 、10 Solr新增动态域（Dynamic）知识点、11 新增SPU和SKU的讲解、 12 新增SpringBoot框架、 13 新增阿里大于短信发送功能、 14 使用CAS实现单点登录、 15 使用CORS实现跨域、 16 使用twitter的snowflake算法实现分布式ID生成器、17 新增微信扫码支付、 18 新增电商秒杀解决方案、 19 使用SpringTask实现任务调度、 20 使用MavenProfilel实现开发与生产环境切换
+项目二	lucene/elasticsearch	1 什么是全文检索、2 Lucene实现全文检索、3 Analyzer分析器、4 索引维护、5 ElasticSearch简介、6 ElasticSearch安装与启动、7 Elasticsearch核心概念、操作入门、8 ElasticSearch集成IK分词器、9 ElasticSearch常用编程操作、10 spring data ElasticSearch使用	可掌握的核心能力：
+熟悉基本的Java爬虫开发，掌握webmagic爬虫框架使用；
+掌握httpClient的使用；
+掌握spring data jpa框架；
+掌握Spring boot2.x框架；
+掌握Spring Cloud框架；
+掌握MongoDB数据库使用；
+掌握RabbitMQ消息中间件使用；
+掌握Elasticsearch分布式搜索引擎；
+掌握Rancher实现容器部署管理；
+掌握Grafana实现服务的实时监控；
+熟悉NodeJs环境，使用Npm和cnpm管理包资源；
+熟悉ESlint进行前端语法校验；
+熟悉axios的使用；
+掌握vuejs框架的基本使用；
+掌握瀑布流组件使用；
+掌握前端页面分享功能的实现；
+掌握企业级DevOps解决方案，熟悉Docker、Jenkins、git等；
+了解spark mllib als 机器学习算法库实现智能分类；
+了解DL4J深度学习框架实现智能推荐。
+
+可解决的现实问题：
+使用spring全家桶进行项目开发，掌握微服务开发，熟悉前端开发方式及相关技术，熟悉软件部署与持续集成 ，了解Java机器学习，打造Java全栈式工程师，让学员站在Java软件开发的金字塔顶端。
+
+本阶段顺应Java开发市场发展趋势，可轻松应用Java互联网开发大部分岗位。
+spring data jpa	1 ORM框架介绍、2 hibernate框架介绍、3 JPA介绍、4 spring data jpa概述、
+5 spring data jpa常用操作、6 spring data jpa关联映射与多表操作
+spring boot	1 springBoot简介（Spring Boot 2.0 新特性）、2 springBoot快速入门（包括热部署）、3 springBoot与其它技术的整合（SpringMVC \ Spring Data JPA \ JUnit \  mybatis）4 springBoot原理分析、5 thymeleaf 模板语言 、6 综合案例（Spring Data JPA +SpringBoot2.0  + thymeleaf  ）、7 Spring Boot Admin
+git	1 git历史、2 git与svn对比、3 git工作流程、3 git安装、4 git管理文件版本、5 运程仓库、6 分支管理
+vue.js	1 vue.js概述、2 vue.js系统指令、3 vue.js过滤器、4 vue.js ajax操作、5 vue.js组件介绍、6 vue.js路由
+爬虫	1 爬虫介绍、 2httpClient、3webMagic
+
+1 采用前后端分离的方式进行系统开发、2 采用模块化的课程设计，分为微服务开发、前端系统开发、爬虫与人工智能开发三个模块3 新增SpringBoot2.0、 4 新增Postman工具的使用、 5 使用阿里云OSS实现图片资源的存储、6 使用MongoDB数据库、 7 新增SpringDataMongoDB框架、8 使用Elasticsearch（5.0）实现搜索数据的存储、 9 使用RabbitMQ作为消息中间件、 10 使用JWT实现微服务鉴权、 11 新增微服务框架Spring Cloud 、 12 新增分布式日志系统ELK、13 新增持续集成技术Jenkins、14 使用Rancher实现容器部署管理、15 使用Grafana实现服务的实时监控、 16 新增Node.js的讲解、 17 使用Npm和cnpm管理包资源、 18 使用webpack实现前端工程的打包、19 新增es6语法的讲解与应用、20 使用ESlint进行前端语法校验、21 新增axios的讲解与应用、22 使用vscode作为前端开发工具、23 使用mock.js与easyMock实现模拟后端API接口、 24 使用Swagger语言作为文档设计规范、25 采用vue.js作为前端框架、26 使用ElementUI开发管理后台的前端工程、27 使用NUXT实现服务端渲染、 28 新增分享组件的使用（QQ 、QQ空间、微信、新浪微博）、 29 使用瀑布流组件实现前台页面数据的加载、30 使用爬虫框架webmagic爬取数据、 31 使用spark mllib als 机器学习算法库实现智能分类、32 使用DL4J深度学习框架实现智能推荐

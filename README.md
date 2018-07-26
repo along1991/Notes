@@ -34,12 +34,20 @@
 * XCode （IOS开发工具）
 * Flutter/ReactNative/APICloud/HBuilder （混合开发Android/IOS）
 
-
 ## 开发框架
 ### 后端
-
+1、C++、Java、Go、Python
+2、MySql、Oracle
+3、SpringMVC+Spring+myBatis
 
 ### 前端
+1、H5、CSS3、Javascript、Jquery
+2、Bootstrap
 
+### Android：
+1、Java、C++、Dart、Kotiln
+2、MVC、MVP、MVVM(DataBinding)
 
-### 移动端：
+### IOS
+1、Object-C、Swift
+2、MVC

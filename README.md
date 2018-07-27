@@ -21,6 +21,7 @@
 * GoLand （Golang idea）
 * MySql/Oracle/SQLServer (数据库)
 * Navicat Premium （数据库管理工具）
+* Xshell（查看服务器日志）
 
 ### 前端
 * WebStorm

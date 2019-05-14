@@ -6,6 +6,7 @@
 * GitLab/SVN Server（版本控制系统）
 * Git/SVN（版本控制系统客户端）
 * XMind （高效能思维导图工具）
+* MarkDown （高效能思维导图工具）
 
 ### 产品
 * 墨刀（制作原型图）
@@ -13,6 +14,7 @@
 * PhotoShop （制作图像处理）
 * PxCook （切图设计工具）
 * XAMPP/Apache （搭建访问Arxue原型图服务器）
+* 蓝狐
 
 ### 后端
 * Eclipse/IntelliJ IDEA （Java idea）

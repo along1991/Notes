@@ -7,6 +7,7 @@
 * Git/SVN（版本控制系统客户端）
 * XMind （高效能思维导图工具）
 * MarkDown （高效能思维导图工具）
+* 数据抓包：wireshark、charles
 
 ### 产品
 * 墨刀（制作原型图）
@@ -39,18 +40,18 @@
 
 ## 开发框架
 ### 后端
-1、C++、Java、Go、Python
-2、MySql、Oracle
-3、SpringMVC+Spring+myBatis
+* 1、C++、Java、Go、Python
+* 2、MySql、Oracle
+* 3、SpringMVC+Spring+myBatis
 
 ### 前端
-1、H5、CSS3、Javascript、Jquery
-2、Bootstrap
+* 1、H5、CSS3、Javascript、Jquery
+* 2、Bootstrap
 
 ### Android：
-1、Java、C++、Dart、Kotiln
-2、MVC、MVP、MVVM(DataBinding)
+* 1、Java、C++、Dart、Kotiln
+* 2、MVC、MVVM(DataBinding)、MVP
 
 ### IOS
-1、Object-C、Swift
-2、MVC
+* 1、Object-C、Swift
+* 2、MVC

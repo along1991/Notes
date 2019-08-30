@@ -29,7 +29,7 @@ public class SmsListener {
     @Autowired
     private SmslogService smslogService;
 
-    private volatile LinkedBlockingQueue<Map<String, Object>> queue;
+    private volatile LinkedBlockingQueue<Map<String, Object>> queue = new LinkedBlockingQueue<>();
     private QueryTask queryTask;
     
     @RabbitListener(queues = "cn.yhulian.zhsms")
@@ -140,8 +140,7 @@ public class SmsListener {
      * @param map
      */
     private void putQueryStatusQueue(Map<String, Object> map) {
-        if (queue == null) {
-            queue = new LinkedBlockingQueue<>();
+        if (queryTask == null) { 
             queryTask = new QueryTask();
             queryTask.start();
         }
